@@ -1,0 +1,30 @@
+D:\My Dropbox\_FATESG\zzProjetos\DSCS-2012-2-Clube\Projeto_Clube\TesteConsole\bin\Debug\BancoDeDados\Clube.sdf
+D:\My Dropbox\_FATESG\zzProjetos\DSCS-2012-2-Clube\Projeto_Clube\TesteConsole\bin\Debug\TesteConsole.exe
+D:\My Dropbox\_FATESG\zzProjetos\DSCS-2012-2-Clube\Projeto_Clube\TesteConsole\bin\Debug\TesteConsole.pdb
+D:\My Dropbox\_FATESG\zzProjetos\DSCS-2012-2-Clube\Projeto_Clube\TesteConsole\bin\Debug\Entidade.dll
+D:\My Dropbox\_FATESG\zzProjetos\DSCS-2012-2-Clube\Projeto_Clube\TesteConsole\bin\Debug\Persistencia.dll
+D:\My Dropbox\_FATESG\zzProjetos\DSCS-2012-2-Clube\Projeto_Clube\TesteConsole\bin\Debug\Entidade.pdb
+D:\My Dropbox\_FATESG\zzProjetos\DSCS-2012-2-Clube\Projeto_Clube\TesteConsole\bin\Debug\Persistencia.pdb
+D:\My Dropbox\_FATESG\zzProjetos\DSCS-2012-2-Clube\Projeto_Clube\TesteConsole\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\My Dropbox\_FATESG\zzProjetos\DSCS-2012-2-Clube\Projeto_Clube\TesteConsole\obj\x86\Debug\TesteConsole.exe
+D:\My Dropbox\_FATESG\zzProjetos\DSCS-2012-2-Clube\Projeto_Clube\TesteConsole\obj\x86\Debug\TesteConsole.pdb
+D:\Dropbox\_FATESG\zzProjetos\DSCS-2012-2-Clube\Projeto_Clube\TesteConsole\bin\Debug\BancoDeDados\Clube.sdf
+D:\Dropbox\_FATESG\zzProjetos\DSCS-2012-2-Clube\Projeto_Clube\TesteConsole\bin\Debug\TesteConsole.exe
+D:\Dropbox\_FATESG\zzProjetos\DSCS-2012-2-Clube\Projeto_Clube\TesteConsole\bin\Debug\TesteConsole.pdb
+D:\Dropbox\_FATESG\zzProjetos\DSCS-2012-2-Clube\Projeto_Clube\TesteConsole\bin\Debug\Entidade.dll
+D:\Dropbox\_FATESG\zzProjetos\DSCS-2012-2-Clube\Projeto_Clube\TesteConsole\bin\Debug\Persistencia.dll
+D:\Dropbox\_FATESG\zzProjetos\DSCS-2012-2-Clube\Projeto_Clube\TesteConsole\bin\Debug\Entidade.pdb
+D:\Dropbox\_FATESG\zzProjetos\DSCS-2012-2-Clube\Projeto_Clube\TesteConsole\bin\Debug\Persistencia.pdb
+D:\Dropbox\_FATESG\zzProjetos\DSCS-2012-2-Clube\Projeto_Clube\TesteConsole\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Dropbox\_FATESG\zzProjetos\DSCS-2012-2-Clube\Projeto_Clube\TesteConsole\obj\x86\Debug\TesteConsole.exe
+D:\Dropbox\_FATESG\zzProjetos\DSCS-2012-2-Clube\Projeto_Clube\TesteConsole\obj\x86\Debug\TesteConsole.pdb
+C:\Users\Alexandre\Documents\Visual Studio 2012\Projects\DSCS-2012-2-Clube\Projeto_Clube\TesteConsole\bin\Debug\BancoDeDados\Clube.sdf
+C:\Users\Alexandre\Documents\Visual Studio 2012\Projects\DSCS-2012-2-Clube\Projeto_Clube\TesteConsole\bin\Debug\TesteConsole.exe
+C:\Users\Alexandre\Documents\Visual Studio 2012\Projects\DSCS-2012-2-Clube\Projeto_Clube\TesteConsole\bin\Debug\TesteConsole.pdb
+C:\Users\Alexandre\Documents\Visual Studio 2012\Projects\DSCS-2012-2-Clube\Projeto_Clube\TesteConsole\bin\Debug\Entidade.dll
+C:\Users\Alexandre\Documents\Visual Studio 2012\Projects\DSCS-2012-2-Clube\Projeto_Clube\TesteConsole\bin\Debug\Persistencia.dll
+C:\Users\Alexandre\Documents\Visual Studio 2012\Projects\DSCS-2012-2-Clube\Projeto_Clube\TesteConsole\bin\Debug\Entidade.pdb
+C:\Users\Alexandre\Documents\Visual Studio 2012\Projects\DSCS-2012-2-Clube\Projeto_Clube\TesteConsole\bin\Debug\Persistencia.pdb
+C:\Users\Alexandre\Documents\Visual Studio 2012\Projects\DSCS-2012-2-Clube\Projeto_Clube\TesteConsole\obj\x86\Debug\TesteConsole.csprojResolveAssemblyReference.cache
+C:\Users\Alexandre\Documents\Visual Studio 2012\Projects\DSCS-2012-2-Clube\Projeto_Clube\TesteConsole\obj\x86\Debug\TesteConsole.exe
+C:\Users\Alexandre\Documents\Visual Studio 2012\Projects\DSCS-2012-2-Clube\Projeto_Clube\TesteConsole\obj\x86\Debug\TesteConsole.pdb

@@ -1,0 +1,5 @@
+D:\Dropbox\_FATESG\zzProjetos\DSCS-2012-2-Clube\ServidorSocket\ServidorSocket\bin\Debug\ServidorSocket.exe
+D:\Dropbox\_FATESG\zzProjetos\DSCS-2012-2-Clube\ServidorSocket\ServidorSocket\bin\Debug\ServidorSocket.pdb
+D:\Dropbox\_FATESG\zzProjetos\DSCS-2012-2-Clube\ServidorSocket\ServidorSocket\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Dropbox\_FATESG\zzProjetos\DSCS-2012-2-Clube\ServidorSocket\ServidorSocket\obj\x86\Debug\ServidorSocket.exe
+D:\Dropbox\_FATESG\zzProjetos\DSCS-2012-2-Clube\ServidorSocket\ServidorSocket\obj\x86\Debug\ServidorSocket.pdb

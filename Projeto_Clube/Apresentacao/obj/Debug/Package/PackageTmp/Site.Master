@@ -1,0 +1,73 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="Apresentacao.SiteMaster" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head runat="server">
+    <title>.:: SisClub ::.</title>
+    <link href="~/Styles/Site.css" rel="stylesheet" type="text/css" />
+    <asp:ContentPlaceHolder ID="HeadContent" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form runat="server">
+            
+            
+    <asp:ScriptManager ID="ScriptManager1" runat="server">
+    </asp:ScriptManager>
+
+
+
+        <div class="page">
+        <div class="header">
+            <div class="title">
+                <h1>
+                SisClub - Sistema Gerenciador de Clubes.    
+                </h1>
+            </div>
+
+            <div class="loginDisplay">
+                <asp:LoginView ID="HeadLoginView" runat="server" EnableViewState="false">
+                    <AnonymousTemplate>
+                        [ <a href="~/Account/Login.aspx" ID="HeadLoginStatus" runat="server">Log In</a> ]
+                    </AnonymousTemplate>
+                    <LoggedInTemplate>
+                        Welcome <span class="bold"><asp:LoginName ID="HeadLoginName" runat="server" /></span>!
+                        [ <asp:LoginStatus ID="HeadLoginStatus" runat="server" LogoutAction="Redirect" LogoutText="Log Out" LogoutPageUrl="~/"/> ]
+                    </LoggedInTemplate>
+                </asp:LoginView>
+            </div>
+            <div class="clear hideSkiplink">
+                <asp:Menu ID="NavigationMenu" runat="server" CssClass="menu" EnableViewState="false" IncludeStyleBlock="false" Orientation="Horizontal">
+                    <Items>
+                        <asp:MenuItem NavigateUrl="~/Default.aspx" Text="Principal" Value="Principal"/>
+                        <asp:MenuItem Text="Cadastros" Value="Cadastros">
+                            <asp:MenuItem NavigateUrl="~/Paginas/Pes_Associado.aspx" Text="Associados" 
+                                Value="Associados"></asp:MenuItem>
+                            <asp:MenuItem Text="Produtos" Value="Produtos"></asp:MenuItem>
+                        </asp:MenuItem>
+                        <asp:MenuItem Text="Operações" Value="Operações">
+                            <asp:MenuItem Text="Vendas" Value="Vendas"></asp:MenuItem>
+                        </asp:MenuItem>
+                        <asp:MenuItem Text="Relatórios" Value="Relatórios">
+                            <asp:MenuItem Text="Associados" Value="Associados" 
+                                NavigateUrl="~/Paginas/Rel_Associado.aspx"></asp:MenuItem>
+                            <asp:MenuItem Text="Vendas" Value="Vendas"></asp:MenuItem>
+                        </asp:MenuItem>
+                        <asp:MenuItem NavigateUrl="~/About.aspx" Text="Sobre..." Value="Sobre...">
+                        </asp:MenuItem>
+                    </Items>
+                </asp:Menu>
+            </div>
+        </div>
+        <div class="main">
+            <asp:ContentPlaceHolder ID="MainContent" runat="server"/>
+        </div>
+        <div class="clear">
+        </div>
+    </div>
+    <div class="footer">
+        
+    </div>
+    </form>
+</body>
+</html>

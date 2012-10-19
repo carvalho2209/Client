@@ -1,0 +1,23 @@
+D:\Dropbox\_FATESG\zzProjetos\DSCS-2012-2-Clube\Projeto_Clube\Servidor\bin\Debug\Servidor.exe
+D:\Dropbox\_FATESG\zzProjetos\DSCS-2012-2-Clube\Projeto_Clube\Servidor\bin\Debug\Servidor.pdb
+D:\Dropbox\_FATESG\zzProjetos\DSCS-2012-2-Clube\Projeto_Clube\Servidor\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Dropbox\_FATESG\zzProjetos\DSCS-2012-2-Clube\Projeto_Clube\Servidor\obj\x86\Debug\Servidor.exe
+D:\Dropbox\_FATESG\zzProjetos\DSCS-2012-2-Clube\Projeto_Clube\Servidor\obj\x86\Debug\Servidor.pdb
+D:\Dropbox\_FATESG\zzProjetos\DSCS-2012-2-Clube\Projeto_Clube\Servidor\bin\Debug\Entidade.dll
+D:\Dropbox\_FATESG\zzProjetos\DSCS-2012-2-Clube\Projeto_Clube\Servidor\bin\Debug\Negocio.dll
+D:\Dropbox\_FATESG\zzProjetos\DSCS-2012-2-Clube\Projeto_Clube\Servidor\bin\Debug\Persistencia.dll
+D:\Dropbox\_FATESG\zzProjetos\DSCS-2012-2-Clube\Projeto_Clube\Servidor\bin\Debug\Entidade.pdb
+D:\Dropbox\_FATESG\zzProjetos\DSCS-2012-2-Clube\Projeto_Clube\Servidor\bin\Debug\Negocio.pdb
+D:\Dropbox\_FATESG\zzProjetos\DSCS-2012-2-Clube\Projeto_Clube\Servidor\bin\Debug\Persistencia.pdb
+C:\Users\Alexandre\Documents\Visual Studio 2012\Projects\DSCS-2012-2-Clube\Projeto_Clube\Servidor\obj\x86\Debug\Servidor.exe
+C:\Users\Alexandre\Documents\Visual Studio 2012\Projects\DSCS-2012-2-Clube\Projeto_Clube\Servidor\obj\x86\Debug\Servidor.pdb
+C:\Users\Alexandre\Documents\Visual Studio 2012\Projects\DSCS-2012-2-Clube\Projeto_Clube\Servidor\bin\Debug\BancoDeDados\Clube.sdf
+C:\Users\Alexandre\Documents\Visual Studio 2012\Projects\DSCS-2012-2-Clube\Projeto_Clube\Servidor\bin\Debug\Servidor.exe
+C:\Users\Alexandre\Documents\Visual Studio 2012\Projects\DSCS-2012-2-Clube\Projeto_Clube\Servidor\bin\Debug\Servidor.pdb
+C:\Users\Alexandre\Documents\Visual Studio 2012\Projects\DSCS-2012-2-Clube\Projeto_Clube\Servidor\bin\Debug\Entidade.dll
+C:\Users\Alexandre\Documents\Visual Studio 2012\Projects\DSCS-2012-2-Clube\Projeto_Clube\Servidor\bin\Debug\Negocio.dll
+C:\Users\Alexandre\Documents\Visual Studio 2012\Projects\DSCS-2012-2-Clube\Projeto_Clube\Servidor\bin\Debug\Persistencia.dll
+C:\Users\Alexandre\Documents\Visual Studio 2012\Projects\DSCS-2012-2-Clube\Projeto_Clube\Servidor\bin\Debug\Entidade.pdb
+C:\Users\Alexandre\Documents\Visual Studio 2012\Projects\DSCS-2012-2-Clube\Projeto_Clube\Servidor\bin\Debug\Negocio.pdb
+C:\Users\Alexandre\Documents\Visual Studio 2012\Projects\DSCS-2012-2-Clube\Projeto_Clube\Servidor\bin\Debug\Persistencia.pdb
+C:\Users\Alexandre\Documents\Visual Studio 2012\Projects\DSCS-2012-2-Clube\Projeto_Clube\Servidor\obj\x86\Debug\Servidor.csprojResolveAssemblyReference.cache

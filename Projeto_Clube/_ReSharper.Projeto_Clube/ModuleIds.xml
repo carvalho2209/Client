@@ -1,0 +1,7 @@
+<Modules>
+  <Module PersistentId="BE4296C4-3AE2-47AA-9FA4-28596A9436EB" ModuleId="Servidor" />
+  <Module PersistentId="B489CFA9-F1C6-4F17-80CE-A776A26A7766" ModuleId="TesteConsole" />
+  <Module PersistentId="AD1EA9B0-E823-46A7-A18E-F85859056747" ModuleId="Entidade" />
+  <Module PersistentId="8179D1F7-72C0-421C-833A-06E438C59FD4" ModuleId="Persistencia" />
+  <Module PersistentId="B6C4770F-A459-4369-99AD-660C745BE214" ModuleId="Apresentacao" />
+</Modules>

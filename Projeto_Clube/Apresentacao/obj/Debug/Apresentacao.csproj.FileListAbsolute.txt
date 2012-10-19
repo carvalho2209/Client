@@ -1,0 +1,91 @@
+D:\My Dropbox\_FATESG\zzProjetos\DSCS-2012-2-Clube\Projeto_Clube\Apresentacao\bin\Apresentacao.dll
+D:\My Dropbox\_FATESG\zzProjetos\DSCS-2012-2-Clube\Projeto_Clube\Apresentacao\bin\Apresentacao.pdb
+D:\My Dropbox\_FATESG\zzProjetos\DSCS-2012-2-Clube\Projeto_Clube\Apresentacao\obj\Debug\ResolveAssemblyReference.cache
+D:\My Dropbox\_FATESG\zzProjetos\DSCS-2012-2-Clube\Projeto_Clube\Apresentacao\obj\Debug\Apresentacao.dll
+D:\My Dropbox\_FATESG\zzProjetos\DSCS-2012-2-Clube\Projeto_Clube\Apresentacao\obj\Debug\Apresentacao.pdb
+D:\My Dropbox\_FATESG\zzProjetos\DSCS-2012-2-Clube\Projeto_Clube\Apresentacao\bin\Entidade.dll
+D:\My Dropbox\_FATESG\zzProjetos\DSCS-2012-2-Clube\Projeto_Clube\Apresentacao\bin\Negocio.dll
+D:\My Dropbox\_FATESG\zzProjetos\DSCS-2012-2-Clube\Projeto_Clube\Apresentacao\bin\Persistencia.dll
+D:\My Dropbox\_FATESG\zzProjetos\DSCS-2012-2-Clube\Projeto_Clube\Apresentacao\bin\Entidade.pdb
+D:\My Dropbox\_FATESG\zzProjetos\DSCS-2012-2-Clube\Projeto_Clube\Apresentacao\bin\Negocio.pdb
+D:\My Dropbox\_FATESG\zzProjetos\DSCS-2012-2-Clube\Projeto_Clube\Apresentacao\bin\Persistencia.pdb
+D:\My Dropbox\_FATESG\zzProjetos\DSCS-2012-2-Clube\Projeto_Clube\Apresentacao\obj\Debug\RdlCompile.cache
+D:\My Dropbox\_FATESG\zzProjetos\DSCS-2012-2-Clube\Projeto_Clube\Apresentacao\obj\Debug\RdlCompile.compiled
+D:\My Dropbox\_FATESG\zzProjetos\DSCS-2012-2-Clube\Projeto_Clube\Apresentacao\bin\AjaxControlToolkit.pdb
+D:\My Dropbox\_FATESG\zzProjetos\DSCS-2012-2-Clube\Projeto_Clube\Apresentacao\bin\ar\AjaxControlToolkit.resources.dll
+D:\My Dropbox\_FATESG\zzProjetos\DSCS-2012-2-Clube\Projeto_Clube\Apresentacao\bin\cs\AjaxControlToolkit.resources.dll
+D:\My Dropbox\_FATESG\zzProjetos\DSCS-2012-2-Clube\Projeto_Clube\Apresentacao\bin\de\AjaxControlToolkit.resources.dll
+D:\My Dropbox\_FATESG\zzProjetos\DSCS-2012-2-Clube\Projeto_Clube\Apresentacao\bin\es\AjaxControlToolkit.resources.dll
+D:\My Dropbox\_FATESG\zzProjetos\DSCS-2012-2-Clube\Projeto_Clube\Apresentacao\bin\fr\AjaxControlToolkit.resources.dll
+D:\My Dropbox\_FATESG\zzProjetos\DSCS-2012-2-Clube\Projeto_Clube\Apresentacao\bin\he\AjaxControlToolkit.resources.dll
+D:\My Dropbox\_FATESG\zzProjetos\DSCS-2012-2-Clube\Projeto_Clube\Apresentacao\bin\hi\AjaxControlToolkit.resources.dll
+D:\My Dropbox\_FATESG\zzProjetos\DSCS-2012-2-Clube\Projeto_Clube\Apresentacao\bin\it\AjaxControlToolkit.resources.dll
+D:\My Dropbox\_FATESG\zzProjetos\DSCS-2012-2-Clube\Projeto_Clube\Apresentacao\bin\ja\AjaxControlToolkit.resources.dll
+D:\My Dropbox\_FATESG\zzProjetos\DSCS-2012-2-Clube\Projeto_Clube\Apresentacao\bin\ko\AjaxControlToolkit.resources.dll
+D:\My Dropbox\_FATESG\zzProjetos\DSCS-2012-2-Clube\Projeto_Clube\Apresentacao\bin\nl\AjaxControlToolkit.resources.dll
+D:\My Dropbox\_FATESG\zzProjetos\DSCS-2012-2-Clube\Projeto_Clube\Apresentacao\bin\pt\AjaxControlToolkit.resources.dll
+D:\My Dropbox\_FATESG\zzProjetos\DSCS-2012-2-Clube\Projeto_Clube\Apresentacao\bin\ru\AjaxControlToolkit.resources.dll
+D:\My Dropbox\_FATESG\zzProjetos\DSCS-2012-2-Clube\Projeto_Clube\Apresentacao\bin\tr-TR\AjaxControlToolkit.resources.dll
+D:\My Dropbox\_FATESG\zzProjetos\DSCS-2012-2-Clube\Projeto_Clube\Apresentacao\bin\zh-CHS\AjaxControlToolkit.resources.dll
+D:\My Dropbox\_FATESG\zzProjetos\DSCS-2012-2-Clube\Projeto_Clube\Apresentacao\bin\zh-CHT\AjaxControlToolkit.resources.dll
+D:\Dropbox\_FATESG\zzProjetos\DSCS-2012-2-Clube\Projeto_Clube\Apresentacao\bin\Apresentacao.dll
+D:\Dropbox\_FATESG\zzProjetos\DSCS-2012-2-Clube\Projeto_Clube\Apresentacao\bin\Apresentacao.pdb
+D:\Dropbox\_FATESG\zzProjetos\DSCS-2012-2-Clube\Projeto_Clube\Apresentacao\bin\Entidade.dll
+D:\Dropbox\_FATESG\zzProjetos\DSCS-2012-2-Clube\Projeto_Clube\Apresentacao\bin\Negocio.dll
+D:\Dropbox\_FATESG\zzProjetos\DSCS-2012-2-Clube\Projeto_Clube\Apresentacao\bin\Persistencia.dll
+D:\Dropbox\_FATESG\zzProjetos\DSCS-2012-2-Clube\Projeto_Clube\Apresentacao\bin\Entidade.pdb
+D:\Dropbox\_FATESG\zzProjetos\DSCS-2012-2-Clube\Projeto_Clube\Apresentacao\bin\Negocio.pdb
+D:\Dropbox\_FATESG\zzProjetos\DSCS-2012-2-Clube\Projeto_Clube\Apresentacao\bin\AjaxControlToolkit.pdb
+D:\Dropbox\_FATESG\zzProjetos\DSCS-2012-2-Clube\Projeto_Clube\Apresentacao\bin\Persistencia.pdb
+D:\Dropbox\_FATESG\zzProjetos\DSCS-2012-2-Clube\Projeto_Clube\Apresentacao\bin\ar\AjaxControlToolkit.resources.dll
+D:\Dropbox\_FATESG\zzProjetos\DSCS-2012-2-Clube\Projeto_Clube\Apresentacao\bin\cs\AjaxControlToolkit.resources.dll
+D:\Dropbox\_FATESG\zzProjetos\DSCS-2012-2-Clube\Projeto_Clube\Apresentacao\bin\de\AjaxControlToolkit.resources.dll
+D:\Dropbox\_FATESG\zzProjetos\DSCS-2012-2-Clube\Projeto_Clube\Apresentacao\bin\es\AjaxControlToolkit.resources.dll
+D:\Dropbox\_FATESG\zzProjetos\DSCS-2012-2-Clube\Projeto_Clube\Apresentacao\bin\fr\AjaxControlToolkit.resources.dll
+D:\Dropbox\_FATESG\zzProjetos\DSCS-2012-2-Clube\Projeto_Clube\Apresentacao\bin\he\AjaxControlToolkit.resources.dll
+D:\Dropbox\_FATESG\zzProjetos\DSCS-2012-2-Clube\Projeto_Clube\Apresentacao\bin\hi\AjaxControlToolkit.resources.dll
+D:\Dropbox\_FATESG\zzProjetos\DSCS-2012-2-Clube\Projeto_Clube\Apresentacao\bin\it\AjaxControlToolkit.resources.dll
+D:\Dropbox\_FATESG\zzProjetos\DSCS-2012-2-Clube\Projeto_Clube\Apresentacao\bin\ja\AjaxControlToolkit.resources.dll
+D:\Dropbox\_FATESG\zzProjetos\DSCS-2012-2-Clube\Projeto_Clube\Apresentacao\bin\ko\AjaxControlToolkit.resources.dll
+D:\Dropbox\_FATESG\zzProjetos\DSCS-2012-2-Clube\Projeto_Clube\Apresentacao\bin\nl\AjaxControlToolkit.resources.dll
+D:\Dropbox\_FATESG\zzProjetos\DSCS-2012-2-Clube\Projeto_Clube\Apresentacao\bin\pt\AjaxControlToolkit.resources.dll
+D:\Dropbox\_FATESG\zzProjetos\DSCS-2012-2-Clube\Projeto_Clube\Apresentacao\bin\ru\AjaxControlToolkit.resources.dll
+D:\Dropbox\_FATESG\zzProjetos\DSCS-2012-2-Clube\Projeto_Clube\Apresentacao\bin\tr-TR\AjaxControlToolkit.resources.dll
+D:\Dropbox\_FATESG\zzProjetos\DSCS-2012-2-Clube\Projeto_Clube\Apresentacao\bin\zh-CHS\AjaxControlToolkit.resources.dll
+D:\Dropbox\_FATESG\zzProjetos\DSCS-2012-2-Clube\Projeto_Clube\Apresentacao\bin\zh-CHT\AjaxControlToolkit.resources.dll
+D:\Dropbox\_FATESG\zzProjetos\DSCS-2012-2-Clube\Projeto_Clube\Apresentacao\obj\Debug\ResolveAssemblyReference.cache
+D:\Dropbox\_FATESG\zzProjetos\DSCS-2012-2-Clube\Projeto_Clube\Apresentacao\obj\Debug\RdlCompile.cache
+D:\Dropbox\_FATESG\zzProjetos\DSCS-2012-2-Clube\Projeto_Clube\Apresentacao\obj\Debug\RdlCompile.compiled
+D:\Dropbox\_FATESG\zzProjetos\DSCS-2012-2-Clube\Projeto_Clube\Apresentacao\obj\Debug\Apresentacao.dll
+D:\Dropbox\_FATESG\zzProjetos\DSCS-2012-2-Clube\Projeto_Clube\Apresentacao\obj\Debug\Apresentacao.pdb
+C:\Users\Alexandre\Documents\Visual Studio 2012\Projects\DSCS-2012-2-Clube\Projeto_Clube\Apresentacao\bin\BancoDeDados\Clube.sdf
+C:\Users\Alexandre\Documents\Visual Studio 2012\Projects\DSCS-2012-2-Clube\Projeto_Clube\Apresentacao\bin\Apresentacao.dll
+C:\Users\Alexandre\Documents\Visual Studio 2012\Projects\DSCS-2012-2-Clube\Projeto_Clube\Apresentacao\bin\Apresentacao.pdb
+C:\Users\Alexandre\Documents\Visual Studio 2012\Projects\DSCS-2012-2-Clube\Projeto_Clube\Apresentacao\bin\Entidade.dll
+C:\Users\Alexandre\Documents\Visual Studio 2012\Projects\DSCS-2012-2-Clube\Projeto_Clube\Apresentacao\bin\Negocio.dll
+C:\Users\Alexandre\Documents\Visual Studio 2012\Projects\DSCS-2012-2-Clube\Projeto_Clube\Apresentacao\bin\Persistencia.dll
+C:\Users\Alexandre\Documents\Visual Studio 2012\Projects\DSCS-2012-2-Clube\Projeto_Clube\Apresentacao\bin\Entidade.pdb
+C:\Users\Alexandre\Documents\Visual Studio 2012\Projects\DSCS-2012-2-Clube\Projeto_Clube\Apresentacao\bin\Negocio.pdb
+C:\Users\Alexandre\Documents\Visual Studio 2012\Projects\DSCS-2012-2-Clube\Projeto_Clube\Apresentacao\bin\AjaxControlToolkit.pdb
+C:\Users\Alexandre\Documents\Visual Studio 2012\Projects\DSCS-2012-2-Clube\Projeto_Clube\Apresentacao\bin\Persistencia.pdb
+C:\Users\Alexandre\Documents\Visual Studio 2012\Projects\DSCS-2012-2-Clube\Projeto_Clube\Apresentacao\bin\ar\AjaxControlToolkit.resources.dll
+C:\Users\Alexandre\Documents\Visual Studio 2012\Projects\DSCS-2012-2-Clube\Projeto_Clube\Apresentacao\bin\cs\AjaxControlToolkit.resources.dll
+C:\Users\Alexandre\Documents\Visual Studio 2012\Projects\DSCS-2012-2-Clube\Projeto_Clube\Apresentacao\bin\de\AjaxControlToolkit.resources.dll
+C:\Users\Alexandre\Documents\Visual Studio 2012\Projects\DSCS-2012-2-Clube\Projeto_Clube\Apresentacao\bin\es\AjaxControlToolkit.resources.dll
+C:\Users\Alexandre\Documents\Visual Studio 2012\Projects\DSCS-2012-2-Clube\Projeto_Clube\Apresentacao\bin\fr\AjaxControlToolkit.resources.dll
+C:\Users\Alexandre\Documents\Visual Studio 2012\Projects\DSCS-2012-2-Clube\Projeto_Clube\Apresentacao\bin\he\AjaxControlToolkit.resources.dll
+C:\Users\Alexandre\Documents\Visual Studio 2012\Projects\DSCS-2012-2-Clube\Projeto_Clube\Apresentacao\bin\hi\AjaxControlToolkit.resources.dll
+C:\Users\Alexandre\Documents\Visual Studio 2012\Projects\DSCS-2012-2-Clube\Projeto_Clube\Apresentacao\bin\it\AjaxControlToolkit.resources.dll
+C:\Users\Alexandre\Documents\Visual Studio 2012\Projects\DSCS-2012-2-Clube\Projeto_Clube\Apresentacao\bin\ja\AjaxControlToolkit.resources.dll
+C:\Users\Alexandre\Documents\Visual Studio 2012\Projects\DSCS-2012-2-Clube\Projeto_Clube\Apresentacao\bin\ko\AjaxControlToolkit.resources.dll
+C:\Users\Alexandre\Documents\Visual Studio 2012\Projects\DSCS-2012-2-Clube\Projeto_Clube\Apresentacao\bin\nl\AjaxControlToolkit.resources.dll
+C:\Users\Alexandre\Documents\Visual Studio 2012\Projects\DSCS-2012-2-Clube\Projeto_Clube\Apresentacao\bin\pt\AjaxControlToolkit.resources.dll
+C:\Users\Alexandre\Documents\Visual Studio 2012\Projects\DSCS-2012-2-Clube\Projeto_Clube\Apresentacao\bin\ru\AjaxControlToolkit.resources.dll
+C:\Users\Alexandre\Documents\Visual Studio 2012\Projects\DSCS-2012-2-Clube\Projeto_Clube\Apresentacao\bin\tr-TR\AjaxControlToolkit.resources.dll
+C:\Users\Alexandre\Documents\Visual Studio 2012\Projects\DSCS-2012-2-Clube\Projeto_Clube\Apresentacao\bin\zh-CHS\AjaxControlToolkit.resources.dll
+C:\Users\Alexandre\Documents\Visual Studio 2012\Projects\DSCS-2012-2-Clube\Projeto_Clube\Apresentacao\bin\zh-CHT\AjaxControlToolkit.resources.dll
+C:\Users\Alexandre\Documents\Visual Studio 2012\Projects\DSCS-2012-2-Clube\Projeto_Clube\Apresentacao\obj\Debug\Apresentacao.csprojResolveAssemblyReference.cache
+C:\Users\Alexandre\Documents\Visual Studio 2012\Projects\DSCS-2012-2-Clube\Projeto_Clube\Apresentacao\obj\Debug\RdlCompile.cache
+C:\Users\Alexandre\Documents\Visual Studio 2012\Projects\DSCS-2012-2-Clube\Projeto_Clube\Apresentacao\obj\Debug\RdlCompile.compiled
+C:\Users\Alexandre\Documents\Visual Studio 2012\Projects\DSCS-2012-2-Clube\Projeto_Clube\Apresentacao\obj\Debug\Apresentacao.dll
+C:\Users\Alexandre\Documents\Visual Studio 2012\Projects\DSCS-2012-2-Clube\Projeto_Clube\Apresentacao\obj\Debug\Apresentacao.pdb

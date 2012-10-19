@@ -1,0 +1,14 @@
+﻿<Window x:Class="WAssociado.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Menu Height="22" HorizontalAlignment="Left" Name="menu1" VerticalAlignment="Top" Width="503">
+            <MenuItem Header="Cadastros">
+                <MenuItem Header="Associado" Click="mnuAssociado_Click" Name="mnuAssociado" />
+                <MenuItem Header="Mensalidade" Click="mnuMensalidade_Click" Name="mnuMensalidade" />
+                <MenuItem Header="Listar Mensalidade" Click="mnuListarMensalidade_Click" Name="mnuListarMensalidade" />
+            </MenuItem>
+        </Menu>
+    </Grid>
+</Window>

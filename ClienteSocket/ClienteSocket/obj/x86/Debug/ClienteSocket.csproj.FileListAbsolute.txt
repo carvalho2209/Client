@@ -1,0 +1,5 @@
+D:\Dropbox\_FATESG\zzProjetos\DSCS-2012-2-Clube\ClienteSocket\ClienteSocket\bin\Debug\ClienteSocket.exe
+D:\Dropbox\_FATESG\zzProjetos\DSCS-2012-2-Clube\ClienteSocket\ClienteSocket\bin\Debug\ClienteSocket.pdb
+D:\Dropbox\_FATESG\zzProjetos\DSCS-2012-2-Clube\ClienteSocket\ClienteSocket\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Dropbox\_FATESG\zzProjetos\DSCS-2012-2-Clube\ClienteSocket\ClienteSocket\obj\x86\Debug\ClienteSocket.exe
+D:\Dropbox\_FATESG\zzProjetos\DSCS-2012-2-Clube\ClienteSocket\ClienteSocket\obj\x86\Debug\ClienteSocket.pdb

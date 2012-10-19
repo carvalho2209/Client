@@ -1,0 +1,13 @@
+D:\Dropbox\_FATESG\zzProjetos\DSCS-2012-2-Clube\WPFCatraca\WPFCatraca\bin\Debug\WPFCatraca.exe
+D:\Dropbox\_FATESG\zzProjetos\DSCS-2012-2-Clube\WPFCatraca\WPFCatraca\bin\Debug\WPFCatraca.pdb
+D:\Dropbox\_FATESG\zzProjetos\DSCS-2012-2-Clube\WPFCatraca\WPFCatraca\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Dropbox\_FATESG\zzProjetos\DSCS-2012-2-Clube\WPFCatraca\WPFCatraca\obj\x86\Debug\MainWindow.baml
+D:\Dropbox\_FATESG\zzProjetos\DSCS-2012-2-Clube\WPFCatraca\WPFCatraca\obj\x86\Debug\MainWindow.g.cs
+D:\Dropbox\_FATESG\zzProjetos\DSCS-2012-2-Clube\WPFCatraca\WPFCatraca\obj\x86\Debug\App.g.cs
+D:\Dropbox\_FATESG\zzProjetos\DSCS-2012-2-Clube\WPFCatraca\WPFCatraca\obj\x86\Debug\WPFCatraca_MarkupCompile.cache
+D:\Dropbox\_FATESG\zzProjetos\DSCS-2012-2-Clube\WPFCatraca\WPFCatraca\obj\x86\Debug\WPFCatraca.g.resources
+D:\Dropbox\_FATESG\zzProjetos\DSCS-2012-2-Clube\WPFCatraca\WPFCatraca\obj\x86\Debug\WPFCatraca.Properties.Resources.resources
+D:\Dropbox\_FATESG\zzProjetos\DSCS-2012-2-Clube\WPFCatraca\WPFCatraca\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Dropbox\_FATESG\zzProjetos\DSCS-2012-2-Clube\WPFCatraca\WPFCatraca\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Dropbox\_FATESG\zzProjetos\DSCS-2012-2-Clube\WPFCatraca\WPFCatraca\obj\x86\Debug\WPFCatraca.exe
+D:\Dropbox\_FATESG\zzProjetos\DSCS-2012-2-Clube\WPFCatraca\WPFCatraca\obj\x86\Debug\WPFCatraca.pdb

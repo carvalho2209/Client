@@ -1,0 +1,11 @@
+D:\Dropbox\_FATESG\zzProjetos\DSCS-2012-2-Clube\Projeto_Clube\Servicos\bin\Servicos.dll
+D:\Dropbox\_FATESG\zzProjetos\DSCS-2012-2-Clube\Projeto_Clube\Servicos\bin\Servicos.pdb
+D:\Dropbox\_FATESG\zzProjetos\DSCS-2012-2-Clube\Projeto_Clube\Servicos\obj\Debug\ResolveAssemblyReference.cache
+D:\Dropbox\_FATESG\zzProjetos\DSCS-2012-2-Clube\Projeto_Clube\Servicos\obj\Debug\Servicos.dll
+D:\Dropbox\_FATESG\zzProjetos\DSCS-2012-2-Clube\Projeto_Clube\Servicos\obj\Debug\Servicos.pdb
+D:\Dropbox\_FATESG\zzProjetos\DSCS-2012-2-Clube\Projeto_Clube\Servicos\bin\Entidade.dll
+D:\Dropbox\_FATESG\zzProjetos\DSCS-2012-2-Clube\Projeto_Clube\Servicos\bin\Negocio.dll
+D:\Dropbox\_FATESG\zzProjetos\DSCS-2012-2-Clube\Projeto_Clube\Servicos\bin\Persistencia.dll
+D:\Dropbox\_FATESG\zzProjetos\DSCS-2012-2-Clube\Projeto_Clube\Servicos\bin\Entidade.pdb
+D:\Dropbox\_FATESG\zzProjetos\DSCS-2012-2-Clube\Projeto_Clube\Servicos\bin\Negocio.pdb
+D:\Dropbox\_FATESG\zzProjetos\DSCS-2012-2-Clube\Projeto_Clube\Servicos\bin\Persistencia.pdb

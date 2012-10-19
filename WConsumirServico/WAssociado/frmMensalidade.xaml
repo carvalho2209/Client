@@ -1,0 +1,21 @@
+﻿<Window x:Class="WAssociado.frmMensalidade"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Mensalidade" Height="347" Width="606">
+    <Grid>
+        <TextBox Height="28" HorizontalAlignment="Left" Margin="118,10,0,0" Name="txtIdentificador" VerticalAlignment="Top" Width="120" />
+        <Label Content="Identificador" Height="28" HorizontalAlignment="Left" Margin="10,10,0,0" Name="label1" VerticalAlignment="Top" />
+        <TextBox Height="28" HorizontalAlignment="Left" Margin="118,89,0,0" Name="txtReferencia" VerticalAlignment="Top" Width="120" />
+        <Label Content="Referência" Height="28" HorizontalAlignment="Left" Margin="10,89,0,0" Name="label2" VerticalAlignment="Top" />
+        <TextBox Height="28" HorizontalAlignment="Left" Margin="118,128,0,0" Name="txtDataVencimento" VerticalAlignment="Top" Width="120" />
+        <Label Content="Valor Mensalidade" Height="28" HorizontalAlignment="Left" Margin="12,171,0,0" Name="label3" VerticalAlignment="Top" />
+        <TextBox Height="28" HorizontalAlignment="Right" Margin="0,171,346,0" Name="txtValorMensalidade" VerticalAlignment="Top" Width="120" />
+        <Label Content="Data Vencimento" Height="28" HorizontalAlignment="Left" Margin="12,128,0,0" Name="label4" VerticalAlignment="Top" />
+        <TextBox Height="28" HorizontalAlignment="Right" Margin="0,47,132,0" Name="txtNome" VerticalAlignment="Top" Width="334" IsEnabled="True" IsReadOnly="True" IsReadOnlyCaretVisible="False" />
+        <Label Content="Nome" Height="28" HorizontalAlignment="Left" Margin="10,47,0,0" Name="label5" VerticalAlignment="Top" />
+        <Button Content="Consultar Associado" Height="30" HorizontalAlignment="Left" Margin="271,6,0,0" Name="btnConsultar" VerticalAlignment="Top" Width="181" Click="btnConsultar_Click" />
+        <Button Content="Fechar" Height="33" HorizontalAlignment="Left" Margin="297,216,0,0" Name="btnFechar" VerticalAlignment="Top" Width="155" Click="btnFechar_Click" />
+        <Label Content="aaaa/mm" Height="28" HorizontalAlignment="Left" Margin="244,87,0,0" Name="label6" VerticalAlignment="Top" />
+        <Button Content="Incluir" Height="33" HorizontalAlignment="Left" Margin="118,216,0,0" Name="btnIncluir" VerticalAlignment="Top" Width="155" Click="btnIncluir_Click" />
+    </Grid>
+</Window>

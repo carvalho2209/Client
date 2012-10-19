@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Entidade.EAssociado">
+    <Position X="8" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAAIAAAAAAAACAAABAAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>EAssociado.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entidade.ETipoAssociado">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAQAAAASAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ETipoAssociado.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
